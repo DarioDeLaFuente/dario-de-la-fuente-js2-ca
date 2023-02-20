@@ -1,0 +1,36 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+a {
+  text-decoration: none;
+}
+
+.itemsContinerCounter {
+  position: absolute;
+  top: 45px;
+  right: 15%;
+  padding: 10px;
+}
+.menu-container {
+  position: absolute;
+  top: 45px;
+  left: 15%;
+  padding: 10px;
+}
+.products {
+  margin-top: 100px;
+}
+@media (max-width: 576px) {
+  .itemsContinerCounter {
+    top: 60px;
+    right: 29%;
+  }
+  .menu-container {
+    top: 15px;
+    left: 20%;
+  }
+  .products {
+    margin-top: 100px;
+  }
+}
