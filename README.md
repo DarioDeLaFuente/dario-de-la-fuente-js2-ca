@@ -24,7 +24,8 @@ This are some bullet points:
 - HTML.
 - CSS.
 - Sass. 
-- Js. 
+- Js.
+- bootstarp. 
 
 
 ## Built With
@@ -35,6 +36,7 @@ A list of the tech stack that i used:
 - [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
 - [SCSS](https://sass-lang.com/guide)
 - [JS](https://en.wikipedia.org/wiki/JavaScript)
+- [BOOSTSTRAP](https://getbootstrap.com/)
 - [LIVE SERVER](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
 
 ## Getting Started
