@@ -1,4 +1,4 @@
-# JavaScript 2 - MA3
+# JavaScript 2 - CA
 
 ![image]()
 
